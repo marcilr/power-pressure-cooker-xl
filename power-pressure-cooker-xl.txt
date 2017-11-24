@@ -6,14 +6,21 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Power Pressure Cooker XL
 8-Quart Pressure Cooker
 
-distributed by: Tristar Products, Inc.
-                Fairfield, NJ 07004
-                powerpressurecooker.com
-description:    Fully automatic digital cooker
-item #:         490358
-isbn:           7-52356-80347-6
-made in:        China
-price:          ???
+distributed by:   Tristar Products, Inc.
+                  Fairfield, NJ 07004
+                  powerpressurecooker.com
+
+customer service: 1-973-287-5159
+                  Customer Service Hours:
+                    Monday – Friday:      9:00 am ~ 8:00 pm EST
+                    Saturday and Sunday   9:00 am ~ 5:00 pm EST
+ 
+description:      Fully automatic digital cooker
+item #:           490358
+isbn:             7-52356-80347-6
+made in:          China
+guarantee:        60-Day Money Back Guarantee
+price:            ???
 
 Includes:
 o Recipe book
@@ -60,12 +67,10 @@ From box
 o 8-Quart capacity
 o 70% Faster cooking time
 o 1-Touch cooking
-
-o Important!
-  Pressure Canning and Altitude
-  Do not use this unit for pressure canning above an altitude of
-  2,000 ft.  The Power Pressure Cooker XL will operate properly
-  up to the maximum altitude of 2,000 ft. above sea level.
+o IMPORTANT! Pressure Canning and Altitude
+  Do not use this unit for pressure canning above an altitude of 2000 ft.
+  The Power Pressure Cooker XL will operate properly up to a maximum
+  altitude of 2000 ft. above sea level.
 o One touch pre-set buttons
 o Non-stick inner pot
 o Digital display panel
