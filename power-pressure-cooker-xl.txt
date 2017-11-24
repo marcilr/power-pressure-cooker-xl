@@ -7,6 +7,7 @@ Power Pressure Cooker XL
 distributed by: Tristar Products, Inc.
                 Fairfield, NJ 07004
                 powerpressurecooker.com
+description:    Fully automatic digital cooker
 item #:         490358
 isbn:           7-52356-80347-6
 made in:        China
