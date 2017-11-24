@@ -11,10 +11,12 @@ distributed by:   Tristar Products, Inc.
                   powerpressurecooker.com
 
 customer service: 1-973-287-5159
+                  info@powerpressurecooker.com
                   Customer Service Hours:
                     Monday – Friday:      9:00 am ~ 8:00 pm EST
                     Saturday and Sunday   9:00 am ~ 5:00 pm EST
  
+model:            PPC780
 description:      Fully automatic digital cooker
 item #:           490358
 isbn:             7-52356-80347-6
