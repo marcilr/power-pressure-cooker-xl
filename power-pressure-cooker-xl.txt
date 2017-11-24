@@ -8,6 +8,7 @@ Power Pressure Cooker XL
 
 distributed by:   Tristar Products, Inc.
                   Fairfield, NJ 07004
+                  (973)575-5400
                   powerpressurecooker.com
 
 customer service: 1-973-287-5159
@@ -18,6 +19,8 @@ customer service: 1-973-287-5159
  
 model:            #PPC780
 description:      Fully automatic digital cooker
+dimensions:       14.5” x 16” x 14.5”
+weight:           20 lbs
 item:             #490358 (from box)
 isbn:             7-52356-80347-6
 made in:          China
