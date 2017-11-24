@@ -25,8 +25,10 @@ item:             #490358 (from box)
 isbn:             7-52356-80347-6
 made in:          China
 guarantee:        60-Day Money Back Guarantee
-price:            $89.99 - $15.00 = $74.99 (Thanksgiving Black Friday sale)
-                  $15 manufacturer's savings** is valid 11/13/17 through 11/27/17.
+price:            $89.99 - $15.00 = $74.99 (Sunday November 19, 2017)
+                  Thanksgiving Black Friday sale
+                  $15 manufacturer's savings** is valid 11/13/17
+                  through 11/27/17.
                   While supplies last. Limit 5 per member.
 
 Includes:
