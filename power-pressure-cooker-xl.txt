@@ -4,6 +4,8 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Power Pressure Cooker XL
+8-Quart Pressure Cooker
+
 distributed by: Tristar Products, Inc.
                 Fairfield, NJ 07004
                 powerpressurecooker.com
@@ -59,6 +61,11 @@ o 8-Quart capacity
 o 70% Faster cooking time
 o 1-Touch cooking
 
+o Important!
+  Pressure Canning and Altitude
+  Do not use this unit for pressure canning above an altitude of
+  2,000 ft.  The Power Pressure Cooker XL will operate properly
+  up to the maximum altitude of 2,000 ft. above sea level.
 o One touch pre-set buttons
 o Non-stick inner pot
 o Digital display panel
